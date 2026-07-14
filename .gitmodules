@@ -1,0 +1,12 @@
+[submodule "gestion-inventario-frontend"]
+	path = gestion-inventario-frontend
+	url = https://github.com/marcss-bnajera/gestion-inventario-frontend.git
+[submodule "gestion-inventario-service-reports"]
+	path = gestion-inventario-service-reports
+	url = https://github.com/marcss-bnajera/gestion-inventario-service-reports.git
+[submodule "gestion-inventario-service-inventory"]
+	path = gestion-inventario-service-inventory
+	url = https://github.com/marcss-bnajera/gestion-inventario-service-inventory.git
+[submodule "gestion-inventario-auth"]
+	path = gestion-inventario-auth
+	url = https://github.com/marcss-bnajera/gestion-inventario-auth.git
